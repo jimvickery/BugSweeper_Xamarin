@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D14653D6-F84F-4833-87AE-D2630437B77A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BugSweeper/BugSweeper.Android/obj/Debug/BugSweeper.Droid.MainPage.xaml.g.cs">
+    <Files>
+      <File FileName="BugSweeper/BugSweeper.Android/obj/Debug/BugSweeper.Droid.MainPage.xaml.g.cs" Line="46" Column="109" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BugSweeper.Android PreferredExecutionTarget="Android.10_1_WXGA_Tablet_API_23" />
+</Properties>
