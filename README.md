@@ -10,7 +10,5 @@ If you know that a tile has a bug, flag it (or unflag it) with a single tap.
 Avoid double-tapping a tile with a bug!
 
 
-Author
-------
-
-Charles Petzold
+From the following Tutorial
+https://developer.xamarin.com/samples/mobile/LivePlayer/BugSweeperLP/
