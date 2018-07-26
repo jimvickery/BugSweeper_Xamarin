@@ -1,5 +1,6 @@
-##Xamarin Forms BugSweeper Game
-======
+#Xamarin Forms BugSweeper Game
+
+Built with Xamarin Forms
 
 This is a familiar game with a new twist. Ten bugs are hidden in a 9-by-9 grid of tiles.
 To win, you must find and flag all ten bugs.
